@@ -1,0 +1,5 @@
+name "bufref"
+description "Buffer reference helper library"
+authors "Steven Schveighoffer"
+copyright "Copyright © 2019, Steven Schveighoffer"
+license "Boost 1.0"
